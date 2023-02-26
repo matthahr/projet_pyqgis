@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/lieuxpropices" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
